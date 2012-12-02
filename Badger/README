@@ -1,5 +1,8 @@
-This app is based on open source code from:
-- NFC Reader - https://market.android.com/details?id=se.anyro.nfc_reader
-- com.example.android.photobyintent
-- http://www.graphicsfuel.com/2011/07/yes-no-icons-psd/#data
-- ForegroundDispatch: http://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc.html#foreground-dispatch
+Badger is based on open source code from:
+- NFC Reader: https://market.android.com/details?id=se.anyro.nfc_reader
+- Android Photo Intent example: com.example.android.photobyintent
+
+Other very helpful resources were:
+- NFC documentation: http://developer.android.com/guide/topics/connectivity/nfc/index.html
+- EGit github Tutorial: https://www.youtube.com/watch?v=U1kXlahkwd4
+- Open source icons: http://www.graphicsfuel.com/2011/07/yes-no-icons-psd/#data
