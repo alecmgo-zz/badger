@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/list_attendance"
+        android:title="List attendance" />
+    <item android:id="@+id/clear_attendance"
+        android:title="Clear attendance" />
+    <item android:id="@+id/reset"
+        android:title="Reset all data" />
+    <item android:id="@+id/about"
+        android:title="About" />
+</menu>

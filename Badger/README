@@ -1,0 +1,5 @@
+This app is based on open source code from:
+- NFC Reader - https://market.android.com/details?id=se.anyro.nfc_reader
+- com.example.android.photobyintent
+- http://www.graphicsfuel.com/2011/07/yes-no-icons-psd/#data
+- ForegroundDispatch: http://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc.html#foreground-dispatch
